@@ -1,1 +1,2 @@
-# erin-renshaw.github.io
+jekyll build
+git checkout master
